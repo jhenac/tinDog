@@ -4,4 +4,4 @@ fontawesome.
 
 #html #css #bootstrap
 
-www.jhenac.tindog.com
+https://jhenac.github.io/tinDog/
